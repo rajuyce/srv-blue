@@ -27,7 +27,7 @@ metadata:
   namespace: dev
 spec:
   selector:
-    app: dev
+    app: blue
     tier: frontend
   ports:
   - name: http
